@@ -138,6 +138,8 @@ Int. Will be consulted before L</"CACHE_MAX_AGE">.
 
 =head1 SEE ALSO
 
-L<LWP::UserAgent::Cached>
+Existing (non-plugin-based) solutions: L<LWP::UserAgent::Cached>,
+L<LWP::UserAgent::WithCache>, L<LWP::UserAgent::Cache::Memcached>,
+L<LWP::UserAgent::Snapshot>, L<LWP::UserAgent::OfflineCache>.
 
 L<LWP::UserAgent::Plugin>
