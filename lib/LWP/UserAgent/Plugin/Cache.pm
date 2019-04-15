@@ -138,4 +138,6 @@ Int. Will be consulted before L</"CACHE_MAX_AGE">.
 
 =head1 SEE ALSO
 
+L<LWP::UserAgent::Cached>
+
 L<LWP::UserAgent::Plugin>
